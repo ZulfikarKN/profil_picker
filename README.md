@@ -2,15 +2,29 @@
 
 A new Flutter project.
 
-## Getting Started
+## Instructions
+1. memulai halaman (Main Page)
+2. tekan avatar untuk ke ganti profil
+3. tekan ambil dari kamera untuk membuka kamera
+4. tekan tombol dibawah untuk menangkap gambar
+5. tampilan crop gambar, tekan icon ceklis diatas kanan untuk menyimpan gambar
+6. tampilan halaman ganti profil, tekan simpan untuk upload gambar dan mengubah avatar
 
-This project is a starting point for a Flutter application.
+## ScreenShots
 
-A few resources to get you started if this is your first Flutter project:
+<img width='300' src="https://github.com/ZulfikarKN/profil_picker/blob/main/Screenshots/Screenshot_1644764761.png">
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width='300' src="https://github.com/ZulfikarKN/profil_picker/blob/main/Screenshots/Screenshot_1644764840.png">
+
+
+<img width='300' src="https://github.com/ZulfikarKN/profil_picker/blob/main/Screenshots/Screenshot_1644764850.png">
+
+
+<img width='300' src="https://github.com/ZulfikarKN/profil_picker/blob/main/Screenshots/Screenshot_1644764873.png">
+
+
+<img width='300' src="https://github.com/ZulfikarKN/profil_picker/blob/main/Screenshots/Screenshot_1644764855.png">
+
+
+<img width='300' src="https://github.com/ZulfikarKN/profil_picker/blob/main/Screenshots/Screenshot_1644764893.png">
